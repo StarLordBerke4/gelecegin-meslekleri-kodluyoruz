@@ -13,7 +13,7 @@ Bu proje, **Kodluyoruz DİGEM (Dijital Gençlik Merkezi) Programı** kapsamında
 <br>
 <br>
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/gelecegin-meslekleri-kodluyoruz/blob/main/img/Gelece%C4%9Fin%20Meslekleri%20Web.png" alt="UI Tasarım" width="1100"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/gelecegin-meslekleri-kodluyoruz/blob/main/img/Gelece%C4%9Fin%20Meslekleri%20Web.png" alt="UI Tasarım 1" width="1200"/></a>
 
 # 📌 Proje Hakkında
 
@@ -32,7 +32,7 @@ Platform;
 
 gibi geleceğin öne çıkan mesleklerini tanıtırken, bu alanlarda gerekli becerileri, eğitim yollarını ve kariyer planlama süreçlerini kullanıcı dostu bir deneyimle sunmaktadır.
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/gelecegin-meslekleri-kodluyoruz/blob/main/img/Gelecegin%20Meslekleri%20UI.png" alt="UI Tasarım" width="1100"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/gelecegin-meslekleri-kodluyoruz/blob/main/img/Gelecegin%20Meslekleri%20UI.png" alt="UI Tasarım 2" width=""/></a>
 
 
 # 🎯 Çözülen Problem
@@ -173,7 +173,7 @@ Modüler yapısı sayesinde yeni meslekler, eğitim içerikleri ve kariyer rehbe
 - Mobil cihazlarda kullanıma uygunlu "Responsive Tasarım" ile proje inşa edilmiştir.
 <br>
 <br>
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/gelecegin-meslekleri-kodluyoruz/blob/main/img/Gelece%C4%9Fin%20Meslekleri%20Mobil%20G%C3%B6r%C3%BCn%C3%BCm.png" alt="UI Tasarım" width=""/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/gelecegin-meslekleri-kodluyoruz/blob/main/img/Gelece%C4%9Fin%20Meslekleri%20Mobil%20G%C3%B6r%C3%BCn%C3%BCm.png" alt="UI Tasarım 3" width=""/></a>
 
 
 # ✨ Öne Çıkan Özellikler
