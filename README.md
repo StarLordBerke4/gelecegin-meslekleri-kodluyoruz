@@ -11,7 +11,6 @@ Bu proje, **Kodluyoruz DİGEM (Dijital Gençlik Merkezi) Programı** kapsamında
 🔗 **https://gelecegin-meslekleri-kodluyoruz.vercel.app/**
 
 <br>
-<br>
 
 <a href=""><img align="center" src="https://github.com/StarLordBerke4/gelecegin-meslekleri-kodluyoruz/blob/main/img/Gelece%C4%9Fin%20Meslekleri%20Web.png" alt="UI Tasarım 1" width="1200"/></a>
 
@@ -200,5 +199,6 @@ Modüler yapısı sayesinde yeni meslekler, eğitim içerikleri ve kariyer rehbe
 - İsim: **Berke Mert Öztürk**
 - Ünvan: **Web Geliştirici & Web Tasarımcı & Grafik Tasarımcı & UI/UX Tasarımcı & BÖTE**
 
-Not: Bu proje, **Kodluyoruz DİGEM (Dijital Gençlik Merkezi) Programı** kapsamında geliştirilmiştir.
+Not: Bu proje, **Kodluyoruz Bugünün Gençleri Geleceğin Meslekleri Projesi** kapsamında geliştirilmiştir.
 
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/gelecegin-meslekleri-kodluyoruz/blob/main/img/kodluyoruz_cover.jpg" alt="Kodluyoruz" width=""/></a>
