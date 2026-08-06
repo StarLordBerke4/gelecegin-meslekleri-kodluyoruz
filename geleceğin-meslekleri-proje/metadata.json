@@ -1,0 +1,6 @@
+{
+  "name": "Geleceğin Meslekleri",
+  "description": "14-24 yaş arası gençler için geleceğin mesleklerini, gerekli becerileri ve kariyer rehberini sunan modern web platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
