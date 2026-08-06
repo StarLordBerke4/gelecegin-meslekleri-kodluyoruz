@@ -171,9 +171,8 @@ Modüler yapısı sayesinde yeni meslekler, eğitim içerikleri ve kariyer rehbe
 
 # 📱 Mobil Uyumlu Tasarım
 - Mobil cihazlarda kullanıma uygunlu "Responsive Tasarım" ile proje inşa edilmiştir.
-<br>
-<br>
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/gelecegin-meslekleri-kodluyoruz/blob/main/img/Gelece%C4%9Fin%20Meslekleri%20Mobil%20G%C3%B6r%C3%BCn%C3%BCm.png" alt="UI Tasarım 3" width=""/></a>
+
+<a href="" align="center"><img align="center" src="https://github.com/StarLordBerke4/gelecegin-meslekleri-kodluyoruz/blob/main/img/Gelece%C4%9Fin%20Meslekleri%20Mobil%20G%C3%B6r%C3%BCn%C3%BCm.png" alt="UI Tasarım 3" width=""/></a>
 
 
 # ✨ Öne Çıkan Özellikler
@@ -202,3 +201,4 @@ Modüler yapısı sayesinde yeni meslekler, eğitim içerikleri ve kariyer rehbe
 - Ünvan: **Web Geliştirici & Web Tasarımcı & Grafik Tasarımcı & UI/UX Tasarımcı & BÖTE**
 
 Not: Bu proje, **Kodluyoruz DİGEM (Dijital Gençlik Merkezi) Programı** kapsamında geliştirilmiştir.
+
