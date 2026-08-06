@@ -179,10 +179,12 @@ Modüler yapısı sayesinde yeni meslekler, eğitim içerikleri ve kariyer rehbe
 - HTML5
 - CSS3
 - JavaScript
+- TypeScript
 - Responsive Design
 
 # 👨‍💻 Geliştirici
 
-**Berke Mert Öztürk**
+- İsim: **Berke Mert Öztürk**
+- Ünvan: **Web Geliştirici & Web Tasarımcı & Grafik Tasarımcı & UI/UX Tasarımcı & BÖTE**
 
-Bu proje, **Kodluyoruz DİGEM (Dijital Gençlik Merkezi) Programı** kapsamında geliştirilmiştir.
+Not: Bu proje, **Kodluyoruz DİGEM (Dijital Gençlik Merkezi) Programı** kapsamında geliştirilmiştir.
