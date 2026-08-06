@@ -10,6 +10,9 @@ Bu proje, **Kodluyoruz DİGEM (Dijital Gençlik Merkezi) Programı** kapsamında
 
 🔗 **https://gelecegin-meslekleri-kodluyoruz.vercel.app/**
 
+<br>
+<br>
+
 <a href=""><img align="center" src="https://github.com/StarLordBerke4/gelecegin-meslekleri-kodluyoruz/blob/main/img/Gelece%C4%9Fin%20Meslekleri%20Web.png" alt="UI Tasarım" width="1100"/></a>
 
 # 📌 Proje Hakkında
@@ -165,6 +168,13 @@ Modern arayüzü sayesinde kullanıcılar;
 - Eğitim içeriklerine hızlıca ulaşabilir.
 
 Modüler yapısı sayesinde yeni meslekler, eğitim içerikleri ve kariyer rehberleri kolayca eklenebilir.
+
+# 📱 Mobil Uyumlu Tasarım
+- Mobil cihazlarda kullanıma uygunlu "Responsive Tasarım" ile proje inşa edilmiştir.
+<br>
+<br>
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/gelecegin-meslekleri-kodluyoruz/blob/main/img/Gelece%C4%9Fin%20Meslekleri%20Mobil%20G%C3%B6r%C3%BCn%C3%BCm.png" alt="UI Tasarım" width=""/></a>
+
 
 # ✨ Öne Çıkan Özellikler
 
