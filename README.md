@@ -10,6 +10,7 @@ Bu proje, **Kodluyoruz DİGEM (Dijital Gençlik Merkezi) Programı** kapsamında
 
 🔗 **https://gelecegin-meslekleri-kodluyoruz.vercel.app/**
 
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/gelecegin-meslekleri-kodluyoruz/blob/main/img/Gelece%C4%9Fin%20Meslekleri%20Web.png" alt="UI Tasarım" width="1100"/></a>
 
 # 📌 Proje Hakkında
 
@@ -27,6 +28,9 @@ Platform;
 - 🌱 Yenilenebilir Enerji
 
 gibi geleceğin öne çıkan mesleklerini tanıtırken, bu alanlarda gerekli becerileri, eğitim yollarını ve kariyer planlama süreçlerini kullanıcı dostu bir deneyimle sunmaktadır.
+
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/gelecegin-meslekleri-kodluyoruz/blob/main/img/Gelecegin%20Meslekleri%20UI.png" alt="UI Tasarım" width="1100"/></a>
+
 
 # 🎯 Çözülen Problem
 
